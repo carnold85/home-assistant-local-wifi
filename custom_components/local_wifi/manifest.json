@@ -1,0 +1,9 @@
+{
+    "domain": "local_wifi",
+    "name": "Local WiFi",
+    "version": "0.5",
+    "documentation": "https://www.f00bar.org/",
+    "dependencies": [],
+    "codeowners": ["@carnold85"],
+    "requirements": ["ap-parse==0.1.0"]
+}
